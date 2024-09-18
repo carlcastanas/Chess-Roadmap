@@ -4,11 +4,11 @@
 1. [Introduction](#introduction)
 2. [Training Roadmap](#training-roadmap)
    - [Below 1000 Novices](#below-1000-novices)
-   - [1000–1199 Class E, Category 5](#1000-1199-class-e-category-5)
-   - [1200–1399 Class D, Category 4](#1200-1399-class-d-category-4)
-   - [1400–1599 Class C, Category 3](#1400-1599-class-c-category-3)
-   - [1600–1799 Class B, Category 2](#1600-1799-class-b-category-2)
-   - [1800–1999 Class A, Category 1](#1800-1999-class-a-category-1)
+   - [1000–1199 Class E, Category 5](#1000-1199-class-e)
+   - [1200–1399 Class D, Category 4](#1200-1399-class-d)
+   - [1400–1599 Class C, Category 3](#1400-1599-class-c)
+   - [1600–1799 Class B, Category 2](#1600-1799-class-b)
+   - [1800–1999 Class A, Category 1](#1800-1999-class-a)
    - [2000–2199 Experts](#2000-2199-experts)
    - [2200–2299 Candidate Masters (CM)](#2200-2299-candidate-masters-cm)
    - [2300–2399 FIDE Masters (FM)](#2300-2399-fide-masters-fm)
@@ -35,7 +35,7 @@ This roadmap provides structured guidance for improving your chess rating. Each 
 | **Training Schedule** | **Opening Study**:<br> - Learn basic opening principles (30 minutes/week)<br>**Tactical Puzzles**:<br> - Solve beginner puzzles (30 minutes/day)<br>**Endgame Practice**:<br> - Study basic checkmates (30 minutes/week)<br>**Play Regularly**:<br> - Play 2-3 games/week |
 | **Estimated Time to Next Level** | **Consistent**: 6-8 months<br>**Inconsistent**: 12-18 months<br>**Note**: Time varies based on individual progress and practice consistency. |
 
-### 1000–1199 Class E, Category 5
+### 1000–1199 Class E
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@ This roadmap provides structured guidance for improving your chess rating. Each 
 | **Training Schedule** | **Opening Study**:<br> - Learn specific openings (1 hour/week)<br>**Tactical Puzzles**:<br> - Solve simple puzzles (45 minutes/day)<br>**Endgame Practice**:<br> - Practice basic endgames (1 hour/week)<br>**Play Regularly**:<br> - Play 3-4 games/week |
 | **Estimated Time to Next Level** | **Consistent**: 6-9 months<br>**Inconsistent**: 12-24 months<br>**Note**: Progress may vary based on frequency of play and practice. |
 
-### 1200–1399 Class D, Category 4
+### 1200–1399 Class D
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
@@ -57,7 +57,7 @@ This roadmap provides structured guidance for improving your chess rating. Each 
 | **Training Schedule** | **Opening Study**:<br> - Study common opening principles (1.5 hours/week)<br>**Tactical Puzzles**:<br> - Solve basic puzzles (1 hour/day)<br>**Endgame Practice**:<br> - Review essential endgames (1.5 hours/week)<br>**Play Regularly**:<br> - Play 4-5 games/week |
 | **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-18 months<br>**Note**: Time to progress may depend on tactical and strategic improvements. |
 
-### 1400–1599 Class C, Category 3
+### 1400–1599 Class C
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ This roadmap provides structured guidance for improving your chess rating. Each 
 | **Training Schedule** | **Opening Study**:<br> - Study specific openings (2 hours/week)<br>**Tactical Puzzles**:<br> - Solve tactical motifs (1.5 hours/day)<br>**Endgame Practice**:<br> - Study and practice simple endgames (2 hours/week)<br>**Play Regularly**:<br> - Play 5-6 games/week |
 | **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-18 months<br>**Note**: Improvement in patterns and strategic play will help advance. |
 
-### 1600–1799 Class B, Category 2
+### 1600–1799 Class B
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ This roadmap provides structured guidance for improving your chess rating. Each 
 | **Training Schedule** | **Opening Study**:<br> - Expand opening repertoire (2.5 hours/week)<br>**Tactical Puzzles**:<br> - Solve tactical motifs (2 hours/day)<br>**Endgame Practice**:<br> - Practice essential endgames (2.5 hours/week)<br>**Play Regularly**:<br> - Play 6-7 games/week |
 | **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-24 months<br>**Note**: Consistency and advanced tactics will aid in progressing. |
 
-### 1800–1999 Class A, Category 1
+### 1800–1999 Class A
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
