@@ -95,75 +95,74 @@ This roadmap provides structured guidance for improving your chess rating. Each 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
 | **Focus**             | Master opening theory, enhance tactical skills, and understand advanced endgames.                  |
-| **Books**             | "Reassess Your Chess" by Jeremy Silman<br>"The Art of Attack" by Vladimir Vukovic<br>"Dvoretsky's Endgame Manual" by Mark Dvoretsky |
-| **Practice**          | Solve complex tactical puzzles, play frequently, and review advanced endgames.                    |
+| **Books**             | "Reassess Your Chess" by Jeremy Silman<br>"The Art of Attack in Chess" by Vladimir Vukovic<br>"Chess Endgame Workbook" by Mark Dvoretsky |
+| **Practice**          | Play frequently, solve advanced puzzles, and analyze high-level games.                             |
 | **Platforms**         | Chess.com, Lichess.org                                                                              |
-| **Training Schedule** | **Opening Study**:<br> - Master opening theory (3.5 hours/week)<br>**Tactical Puzzles**:<br> - Solve complex puzzles (3 hours/day)<br>**Endgame Practice**:<br> - Advanced endgame theory (3.5 hours/week)<br>**Game Analysis**:<br> - Analyze 3 games/week<br>**Play Regularly**:<br> - Play 8-10 games/week |
-| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-18 months<br>**Note**: Advancing to the next level depends on high-level strategic and tactical understanding. |
+| **Training Schedule** | **Opening Study**:<br> - Deepen opening theory (3.5 hours/week)<br>**Tactical Puzzles**:<br> - Solve complex puzzles (3 hours/day)<br>**Endgame Practice**:<br> - Advanced endgame techniques (3.5 hours/week)<br>**Game Analysis**:<br> - Analyze 3 games/week<br>**Play Regularly**:<br> - Play 8-9 games/week |
+| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-24 months<br>**Note**: Advanced study and regular play are key to progress. |
 
 ### 2200–2299 Candidate Masters (CM)
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Focus**             | Master opening variations, in-depth tactical motifs, and advanced endgame concepts.               |
-| **Books**             | "The Art of Attack in Chess" by Vladimir Vukovic<br>"Chess Middlegame Planning" by P. Karpov<br>"Endgame Technique" by Alexander Panchenko |
-| **Practice**          | Solve very advanced puzzles, play regularly, and review detailed endgames.                        |
+| **Focus**             | Refine opening strategies, deepen tactical understanding, and master complex endgames.             |
+| **Books**             | "Endgame Strategy" by Mikhail Shereshevsky<br>"The Complete Manual of Positional Chess" by Boris Gelfand<br>"Chess Structures" by Mauricio Flores |
+| **Practice**          | Engage in high-level play, solve intricate tactical problems, and study endgame theory.            |
 | **Platforms**         | Chess.com, Lichess.org                                                                              |
-| **Training Schedule** | **Opening Study**:<br> - Master specific openings (4 hours/week)<br>**Tactical Puzzles**:<br> - Solve very advanced puzzles (3.5 hours/day)<br>**Endgame Practice**:<br> - Master complex endgames (4 hours/week)<br>**Game Analysis**:<br> - Analyze 4 games/week<br>**Play Regularly**:<br> - Play 10-12 games/week |
-| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-18 months<br>**Note**: Progressing to FM involves mastering intricate concepts and consistent high-level play. |
+| **Training Schedule** | **Opening Study**:<br> - Master opening systems (4 hours/week)<br>**Tactical Puzzles**:<br> - Solve intricate puzzles (3.5 hours/day)<br>**Endgame Practice**:<br> - Advanced endgame study (4 hours/week)<br>**Game Analysis**:<br> - Analyze 4 games/week<br>**Play Regularly**:<br> - Play 9-10 games/week |
+| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-24 months<br>**Note**: High-level training and continuous improvement are crucial. |
 
 ### 2300–2399 FIDE Masters (FM)
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Focus**             | High-level opening preparation, in-depth strategic planning, and advanced endgame techniques.       |
-| **Books**             | "Dvoretsky's Endgame Manual" by Mark Dvoretsky<br>"My Great Predecessors" by Garry Kasparov<br>"The Life and Games of Mikhail Tal" by Mikhail Tal |
-| **Practice**          | Solve extremely challenging puzzles, play frequently, and review high-level endgames.              |
+| **Focus**             | Perfect opening preparation, advanced tactical play, and endgame mastery.                          |
+| **Books**             | "Dvoretsky's Endgame Manual" by Mark Dvoretsky<br>"Positional Chess Handbook" by Israel Gelfer<br>"My Great Predecessors" series by Garry Kasparov |
+| **Practice**          | Engage in top-level competitions, solve complex endgames, and analyze grandmaster games.           |
 | **Platforms**         | Chess.com, Lichess.org                                                                              |
-| **Training Schedule** | **Opening Study**:<br> - Deep opening preparation (4.5 hours/week)<br>**Tactical Puzzles**:<br> - Solve extremely challenging puzzles (4 hours/day)<br>**Endgame Practice**:<br> - Master high-level endgames (4.5 hours/week)<br>**Game Analysis**:<br> - Analyze 5 games/week<br>**Play Regularly**:<br> - Play 12-15 games/week |
-| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-18 months<br>**Note**: Advancing to IM involves mastering advanced strategies and maintaining top-level play. |
+| **Training Schedule** | **Opening Study**:<br> - Refine and update openings (4.5 hours/week)<br>**Tactical Puzzles**:<br> - Solve advanced puzzles (4 hours/day)<br>**Endgame Practice**:<br> - Study endgame techniques (4.5 hours/week)<br>**Game Analysis**:<br> - Analyze 5 games/week<br>**Play Regularly**:<br> - Play 10-12 games/week |
+| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-24 months<br>**Note**: Consistent high-level play and study are essential. |
 
 ### 2400–2499 International Masters (IM)
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Focus**             | Master detailed opening theory, deep tactical calculations, and complex endgame scenarios.          |
-| **Books**             | "Endgame Virtuoso Magnus Carlsen" by Garry Kasparov<br>"The Theory and Practice of Endgames" by Vladimir Kramnik<br>"The Power of Pawns" by Jörg Hickl |
-| **Practice**          | Solve highly complex puzzles, play regularly, and analyze advanced endgames.                       |
+| **Focus**             | Master complex openings, develop exceptional tactical vision, and perfect endgame techniques.      |
+| **Books**             | "Endgame Strategy" by Mikhail Shereshevsky<br>"The Power of Pawns" by Jörg Hickl<br>"The King's Indian" by Garry Kasparov |
+| **Practice**          | Compete in elite tournaments, solve advanced tactical and endgame problems, and analyze top-level games. |
 | **Platforms**         | Chess.com, Lichess.org                                                                              |
-| **Training Schedule** | **Opening Study**:<br> - Refine opening theory (5 hours/week)<br>**Tactical Puzzles**:<br> - Solve highly complex puzzles (4.5 hours/day)<br>**Endgame Practice**:<br> - Master complex endgames (5 hours/week)<br>**Game Analysis**:<br> - Analyze 6 games/week<br>**Play Regularly**:<br> - Play 15-20 games/week |
-| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-24 months<br>**Note**: Becoming a GM requires top-level strategic play, preparation, and consistency. |
+| **Training Schedule** | **Opening Study**:<br> - Refine deep openings (5 hours/week)<br>**Tactical Puzzles**:<br> - Solve high-level puzzles (4.5 hours/day)<br>**Endgame Practice**:<br> - Master endgame techniques (5 hours/week)<br>**Game Analysis**:<br> - Analyze 6 games/week<br>**Play Regularly**:<br> - Play 12-15 games/week |
+| **Estimated Time to Next Level** | **Consistent**: 6-12 months<br>**Inconsistent**: 12-24 months<br>**Note**: Continuous improvement and participation in top tournaments are key. |
 
 ### 2500+ Grandmasters (GM)
 
 | **Aspect**            | **Details**                                                                                         |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Focus**             | Advanced opening preparation, in-depth strategic analysis, and exceptional endgame skills.          |
-| **Books**             | "Grandmaster Preparation" by Jacob Aagaard<br>"The Art of Defense in Chess" by Vladimir Kramnik<br>"Chess Structures - A Grandmaster Guide" by Mauricio Flores |
-| **Practice**          | Solve the most challenging puzzles, play frequently, and analyze top-level games.                  |
+| **Focus**             | Perfect all aspects of the game, including advanced openings, deep tactics, and complex endgames.  |
+| **Books**             | "The Complete Chess Strategy" by Ludek Pachman<br>"The Art of Learning" by Josh Waitzkin<br>"My Great Predecessors" series by Garry Kasparov |
+| **Practice**          | Engage in world-class tournaments, solve elite puzzles, and study top-level games.                  |
 | **Platforms**         | Chess.com, Lichess.org                                                                              |
-| **Training Schedule** | **Opening Study**:<br> - Advanced preparation (6 hours/week)<br>**Tactical Puzzles**:<br> - Solve the most challenging puzzles (5 hours/day)<br>**Endgame Practice**:<br> - Study advanced endgames (6 hours/week)<br>**Game Analysis**:<br> - Analyze top-level games (7 games/week)<br>**Play Regularly**:<br> - Play 20+ games/week |
-| **Estimated Time**    | **Consistent**: 12-24 months<br>**Inconsistent**: 24-36 months<br>**Note**: Time varies greatly depending on dedication, competition, and consistent top-level performance. |
+| **Training Schedule** | **Opening Study**:<br> - Maintain and expand repertoire (5 hours/week)<br>**Tactical Puzzles**:<br> - Solve elite puzzles (5 hours/day)<br>**Endgame Practice**:<br> - Advanced endgames (5 hours/week)<br>**Game Analysis**:<br> - Analyze 8 games/week<br>**Play Regularly**:<br> - Play 15+ games/week |
+| **Estimated Time to Next Level** | **Consistent**: Ongoing<br>**Inconsistent**: N/A<br>**Note**: Continuous practice and tournament play are essential for maintaining and improving the Grandmaster level. |
 
 ## Book Suggestions
-**Novices:** "Chess for Children" by Murray Chandler<br>
-**Class E:** "Chess Basics" by Michael Basman<br>
-**Class D:** "Chess for Dummies" by James Eade<br>
-**Class C:** "The Chess Player's Bible" by James Eade<br>
-**Class B:** "The Chess Tactics Workbook" by Al Woolum<br>
-**Class A:** "Chess Tactics for Beginners" by John A. Bain<br>
-**Experts:** "Reassess Your Chess" by Jeremy Silman<br>
-**Candidate Masters:** "The Art of Attack in Chess" by Vladimir Vukovic<br>
-**FIDE Masters:** "Dvoretsky's Endgame Manual" by Mark Dvoretsky<br>
-**International Masters:** "Endgame Virtuoso Magnus Carlsen" by Garry Kasparov<br>
-**Grandmasters:** "Grandmaster Preparation" by Jacob Aagaard<br>
+
+- **Beginner**: "Chess for Children" by Murray Chandler
+- **Intermediate**: "The Chess Player's Bible" by James Eade
+- **Advanced**: "The Art of Attack in Chess" by Vladimir Vukovic
+- **Expert**: "Dvoretsky's Endgame Manual" by Mark Dvoretsky
 
 ## Platforms for Practice
-- **Chess.com**
-- **Lichess.org**
+
+- **Chess.com**: Comprehensive platform for all levels.
+- **Lichess.org**: Free platform with various tools for improvement.
 
 ## Training Schedule Tables
-(Refer to the specific training schedule tables provided above for detailed weekly practice recommendations.)
+
+Refer to each rating category for specific training schedules, including opening studies, tactical puzzles, endgame practice, and regular play recommendations.
 
 ## Coaching
-Consider working with a coach for personalized guidance, especially as you approach higher levels. A coach can help refine your strategy, provide feedback, and accelerate your progress.
+
+- **Online Coaching**: Explore platforms like Chess.com and Lichess.org for online coaching options.
+- **Local Coaches**: Seek recommendations from local chess clubs or online communities for personalized coaching.
+
