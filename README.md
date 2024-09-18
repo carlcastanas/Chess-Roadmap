@@ -22,185 +22,86 @@ This roadmap is designed to help chess players improve their ratings through str
 
 ## Training Roadmap
 
-| ### Below 1000 Novices |
-- **Focus**: Learn basic rules, understand basic moves, and practice fundamental tactics.
-- **Books**:
-  - "Chess for Children" by Murray Chandler
-  - "The Batsford Book of Chess for Children" by Sabrina Chevannes
-  - "Chess: 5334 Problems, Combinations and Games" by László Polgár
-- **Practice**: Play regularly, solve beginner puzzles, and familiarize yourself with basic checkmates.
-- **Platforms**: Chess.com, Lichess.org
+### Below 1000 Novices
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 30 minutes/week        |
-| Middle Game Tactics   | 15 minutes/day         |
-| Endgame Study         | 30 minutes/week        |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 10 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Learn basic rules, understand basic moves, and practice fundamental tactics.                       |
+| **Books**             | - "Chess for Children" by Murray Chandler<br>- "The Batsford Book of Chess for Children" by Sabrina Chevannes<br>- "Chess: 5334 Problems, Combinations and Games" by László Polgár |
+| **Practice**          | Play regularly, solve beginner puzzles, and familiarize yourself with basic checkmates.            |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 1199–1000 Class E, Category 5
-- **Focus**: Understand basic rules, learn simple opening moves, and practice elementary tactics.
-- **Books**:
-  - "Chess Basics" by Michael Basman
-  - "Chess Tactics for Kids" by Murray Chandler
-  - "Learn Chess in a Weekend" by Steve Giddins
-- **Practice**: Play regularly, solve simple puzzles, and learn basic endgame principles.
-- **Platforms**: Chess.com, Lichess.org
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 30 minutes/week        |
-| Middle Game Tactics   | 30 minutes/day         |
-| Endgame Study         | 30 minutes/week        |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 10 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Understand basic rules, learn simple opening moves, and practice elementary tactics.                |
+| **Books**             | - "Chess Basics" by Michael Basman<br>- "Chess Tactics for Kids" by Murray Chandler<br>- "Learn Chess in a Weekend" by Steve Giddins |
+| **Practice**          | Play regularly, solve simple puzzles, and learn basic endgame principles.                           |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 1399–1200 Class D, Category 4
-- **Focus**: Learn opening principles, practice simple tactics, and study essential endgame techniques.
-- **Books**:
-  - "Chess for Dummies" by James Eade
-  - "Winning Chess Tactics" by Seirawan and Silman
-  - "Chess Endings for Kids" by Jeff Coakley
-- **Practice**: Solve basic tactical puzzles, play regularly, and review basic endgames.
-- **Platforms**: Chess.com, Lichess.org
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 30 minutes/week        |
-| Middle Game Tactics   | 20 minutes/day         |
-| Endgame Study         | 30 minutes/week        |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 15 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Learn opening principles, practice simple tactics, and study essential endgame techniques.          |
+| **Books**             | - "Chess for Dummies" by James Eade<br>- "Winning Chess Tactics" by Seirawan and Silman<br>- "Chess Endings for Kids" by Jeff Coakley |
+| **Practice**          | Solve basic tactical puzzles, play regularly, and review basic endgames.                            |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 1599–1400 Class C, Category 3
-- **Focus**: Learn basic openings, improve pattern recognition, and understand basic endgames.
-- **Books**:
-  - "The Chess Player's Bible" by James Eade
-  - "Chess Training Pocket Book" by Sverre Johnsen
-  - "How to Play Chess for Kids" by Richard James
-- **Practice**: Solve basic puzzles, play frequently, and study simple endgames.
-- **Platforms**: Chess.com, Lichess.org
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 30 minutes/week        |
-| Middle Game Tactics   | 20 minutes/day         |
-| Endgame Study         | 30 minutes/week        |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 15 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Learn basic openings, improve pattern recognition, and understand basic endgames.                  |
+| **Books**             | - "The Chess Player's Bible" by James Eade<br>- "Chess Training Pocket Book" by Sverre Johnsen<br>- "How to Play Chess for Kids" by Richard James |
+| **Practice**          | Solve basic puzzles, play frequently, and study simple endgames.                                   |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 1799–1600 Class B, Category 2
-- **Focus**: Improve opening knowledge, practice tactical motifs, and learn fundamental endgames.
-- **Books**:
-  - "The Chess Tactics Workbook" by Al Woolum
-  - "Endgame Play" by Gary Lane
-  - "Logical Chess: Move by Move" by Irving Chernev
-- **Practice**: Work on tactical puzzles, play regularly, and review fundamental endgames.
-- **Platforms**: Chess.com, Lichess.org
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 1 hour/week            |
-| Middle Game Tactics   | 30 minutes/day         |
-| Endgame Study         | 1 hour/week            |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 20 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Improve opening knowledge, practice tactical motifs, and learn fundamental endgames.               |
+| **Books**             | - "The Chess Tactics Workbook" by Al Woolum<br>- "Endgame Play" by Gary Lane<br>- "Logical Chess: Move by Move" by Irving Chernev |
+| **Practice**          | Work on tactical puzzles, play regularly, and review fundamental endgames.                         |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 1999–1800 Class A, Category 1
-- **Focus**: Strengthen opening repertoire, develop tactical skills, and study basic endgames.
-- **Books**:
-  - "Chess Tactics for Beginners" by John A. Bain
-  - "The Complete Book of Chess Strategy" by Jeremy Silman
-  - "Essential Chess Endings" by Karen Grigoryan
-- **Practice**: Play regularly, solve tactical puzzles daily, and analyze your games.
-- **Platforms**: Chess.com, Lichess.org
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 1 hour/week            |
-| Middle Game Tactics   | 30 minutes/day         |
-| Endgame Study         | 1 hour/week            |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 30 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Strengthen opening repertoire, develop tactical skills, and study basic endgames.                 |
+| **Books**             | - "Chess Tactics for Beginners" by John A. Bain<br>- "The Complete Book of Chess Strategy" by Jeremy Silman<br>- "Essential Chess Endings" by Karen Grigoryan |
+| **Practice**          | Play regularly, solve tactical puzzles daily, and analyze your games.                              |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 2199–2000 Experts
-- **Focus**: Improve tactical vision, deepen strategic understanding, and study advanced endgames.
-- **Books**:
-  - "How to Reassess Your Chess" by Jeremy Silman
-  - "Winning Endgames" by Sverre Johnsen and Leif Johannessen
-  - "Chess Tactics for Advanced Players" by Vladimir Vukovic
-- **Practice**: Solve advanced tactical puzzles, review and analyze expert games, and practice endgames.
-- **Platforms**: Chess.com, Lichess.org
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 1-2 hours/week         |
-| Middle Game Tactics   | 30 minutes/day         |
-| Endgame Study         | 1-2 hours/week         |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 30 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Improve tactical vision, deepen strategic understanding, and study advanced endgames.              |
+| **Books**             | - "How to Reassess Your Chess" by Jeremy Silman<br>- "Winning Endgames" by Sverre Johnsen and Leif Johannessen<br>- "Chess Tactics for Advanced Players" by Vladimir Vukovic |
+| **Practice**          | Solve advanced tactical puzzles, review and analyze expert games, and practice endgames.           |
+| **Platforms**         | Chess.com, Lichess.org                                                                              |
 
 ### 2299–2200 Candidate Masters (CM)
-- **Focus**: Refine openings, enhance middle game tactics, and perfect endgame techniques.
-- **Books**:
-  - "Fundamental Chess Endings" by Karsten Müller and Frank Lamprecht
-  - "Reassess Your Chess" by Jeremy Silman
-  - "The Complete Chess Strategy" by Ludek Pachman
-- **Practice**: Participate in strong tournaments, analyze games with an engine, and work on complex endgame scenarios.
-- **Platforms**: Chess.com, Lichess.org, ChessBase
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 1 hour/week            |
-| Middle Game Tactics   | 30 minutes/day         |
-| Endgame Study         | 1 hour/week            |
-| Game Analysis         | 1 game/week            |
-| Puzzle Solving        | 30 minutes/day         |
-| Play Regularly        | 2-3 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Refine openings, enhance middle game tactics, and perfect endgame techniques.                      |
+| **Books**             | - "Fundamental Chess Endings" by Karsten Müller and Frank Lamprecht<br>- "Reassess Your Chess" by Jeremy Silman<br>- "The Complete Chess Strategy" by Ludek Pachman |
+| **Practice**          | Participate in strong tournaments, analyze games with an engine, and work on complex endgame scenarios. |
+| **Platforms**         | Chess.com, Lichess.org, ChessBase                                                                     |
 
 ### 2399–2300 FIDE Masters (FM)
-- **Focus**: Master openings, explore advanced strategies, and specialize in complex endgames.
-- **Books**:
-  - "Dvoretsky's Endgame Manual" by Mark Dvoretsky
-  - "My Great Predecessors" series by Garry Kasparov
-  - "Secrets of Modern Chess Strategy" by John Watson
-- **Practice**: Engage in high-level competition, study grandmaster games, and work with a coach.
-- **Platforms**: Chess.com, Lichess.org, ChessBase, online training platforms
 
-| **Activity**          | **Schedule**          |
-|-----------------------|------------------------|
-| Opening Study         | 2 hours/week           |
-| Middle Game Tactics   | 1 hour/day             |
-| Endgame Study         | 2 hours/week           |
-| Game Analysis         | 2 games/week           |
-| Puzzle Solving        | 30 minutes/day         |
-| Play Regularly        | 3-4 games/week         |
-
----
+| **Aspect**            | **Details**                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Focus**             | Master openings, explore advanced strategies, and specialize in complex endgames.                  |
+| **Books**             | - "Dvoretsky's Endgame Manual" by Mark Dvoretsky<br>- "My Great Predecessors" series by Garry Kasparov<br>- "Secrets of Modern Chess Strategy" by John Watson |
+| **Practice**          | Engage in high-level competition, study grandmaster games, and work with a coach.                   |
+| **Platforms**         | Chess.com, Lichess.org, ChessBase, online training platforms                                        |
 
 ## Book Suggestions
 - **"How to Win at Chess"** by John Emms
@@ -216,7 +117,7 @@ This roadmap is designed to help chess players improve their ratings through str
 For a detailed training schedule, refer to the tables in each rating category above. Adjust the schedule based on personal progress and availability.
 
 ## Coaching
-Consider hiring a coach or joining a chess club for personalized guidance and advanced training. A coach can help identify strengths and weaknesses and create a tailored improvement plan.
+Consider hiring a coach or joining a chess club for personalized guidance and advanced training. A coach can help identify strengths and weaknesses and create a tailored improvement plan. If you need a coach, please contact [Chess Academy](https://www.facebook.com/chessacademyz) on Messenger.
 
 ---
 
