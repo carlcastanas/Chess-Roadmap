@@ -22,7 +22,7 @@ This roadmap is designed to help chess players improve their ratings through str
 
 ## Training Roadmap
 
-### Below 1000 Novices
+| ### Below 1000 Novices |
 - **Focus**: Learn basic rules, understand basic moves, and practice fundamental tactics.
 - **Books**:
   - "Chess for Children" by Murray Chandler
